@@ -1,4 +1,4 @@
-# Make-A-PR 
+# Make-A-PR ![](./assets/pr)
 For the first timers!
 
 ## Follow the steps and make your first Pull Request! 😁
@@ -8,3 +8,11 @@ For the first timers!
 4. Wait for your pull request to get accepted. 😉
 
 <hr>
+
+
+<!--Don't Remove this Comment, Enter your Name in YOUR NAME SECTION , & github profile See down below for eg.-->
+<!-- |  | You Name here.  | Your Github |-->
+
+| Name           | GitHub  |
+| ---------------| -----:|
+| Raghav Sharma | [Raghav Sharma](https://github.com/raghav4) |
