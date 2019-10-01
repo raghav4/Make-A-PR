@@ -1,4 +1,4 @@
-# Make-A-PR :octocat:
+# Make-A-PR 
 For the first timers!
 
 ## Follow these steps to make your first Pull Request! 😁
@@ -14,6 +14,6 @@ For the first timers!
 <!--Don't Remove this Comment, Enter your Name in YOUR NAME SECTION , & github profile See down below for eg.-->
 <!-- |  | You Name here.  | Your Github |-->
 
-| Name           |   GitHub |
-| ---------------| -----:|
-| Raghav Sharma | [@raghav4](https://github.com/raghav4) |
+| S.No.        | Name           | GitHub |
+| -------------|:-------------:| -----:|
+| 1.           | Raghav Sharma | [@raghav4](https://github.com/raghav4) |
